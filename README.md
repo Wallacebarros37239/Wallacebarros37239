@@ -1,4 +1,7 @@
 ## Hi there 👋
+### TECNOLOGIAS DOMINADAS
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Sap](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 <!--
 **Wallacebarros37239/Wallacebarros37239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
